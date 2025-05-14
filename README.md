@@ -1,5 +1,7 @@
 ### ENCODER 8TO3 DATAFLOW Modelling
-
+## NAME : DHANUSH P
+## REG NO : 212223230042
+## DATE : 
 *AIM:*
 
 To implement  Encoder 8 To 3 in Dataflow Modelling using verilog and validating their functionality using their functional tables
@@ -44,8 +46,7 @@ Figure 02  Encoder 8 * 3
 
 /* Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
 
-Developed by: MOHAMMED ASHFAQ NADEEM A
-RegisterNumber:212224230166
+
 */
 
 *RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling*
